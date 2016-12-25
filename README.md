@@ -1,5 +1,9 @@
 # RAC-
-关于学习RAC的那些笔记
+关于学习RAC的那些知识点
+
+RACSignal的初级阶段
+
+<img  src="https://raw.githubusercontent.com/DefaultYuan/ReactiveCocoaLearningMaterials/master/RAC-RACSignal.pdf" width="320" height="570">
 
 相关学习链接
 

@@ -1,7 +1,7 @@
 # RAC-
 关于学习RAC的那些知识点
 
-<img  src="https://raw.githubusercontent.com/DefaultYuan/ReactiveCocoaLearningMaterials/master/images/1.png" width="320" height="570">
+<img  src="https://raw.githubusercontent.com/DefaultYuan/ReactiveCocoaLearningMaterials/master/images/1.png" width="570" height="320">
 
 相关学习链接
 

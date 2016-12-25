@@ -1,10 +1,6 @@
 # RAC-
 关于学习RAC的那些知识点
 
-RACSignal的初级阶段
-
-<img  src="https://raw.githubusercontent.com/DefaultYuan/ReactiveCocoaLearningMaterials/master/RAC-RACSignal.pdf" width="320" height="570">
-
 相关学习链接
 
 http://fengjian0106.github.io/2016/04/17/The-Power-Of-Composition-In-FRP-Part-1/
